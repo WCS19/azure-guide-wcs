@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'wcs-project-test'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E8F31D269ABF4643BF7CDF404007E4AA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D98DC607490946B1999DBFAD42E80220 }}
